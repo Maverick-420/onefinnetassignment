@@ -10,7 +10,7 @@ export default function Home() {
         <div className="relative h-screen w-screen">
           <img
             src="/assets/bicycle-1.webp"
-            className="absolute inset-0 w-full h-full object-cover -z-10"
+            className="absolute inset-0 w-full scale-100	 h-full object-cover -z-10"
             alt={"bike-picture"}
           />
           <div

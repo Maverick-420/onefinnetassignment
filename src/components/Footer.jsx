@@ -1,15 +1,13 @@
-import React from 'react'
+import React from "react";
 
-const Footer = ({footerRef}) => {
+const Footer = ({ footerRef }) => {
   return (
     <footer ref={footerRef} className="bg-gray-100 ">
-    <div className="container mx-auto px-4 py-8 justify-center items-centerw   text-center">
-        <p>
-          &copy; 2024 GearUp Cycles. All rights reserved.
-        </p>
-    </div>
-  </footer>
-  )
-}
+      <div className="container mx-auto px-4 py-8 justify-center items-centerw   text-center">
+        <p>&copy; Dawn Bikes All rights reserved.</p>
+      </div>
+    </footer>
+  );
+};
 
-export default Footer
+export default Footer;
