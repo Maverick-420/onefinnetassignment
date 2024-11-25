@@ -1,4 +1,3 @@
----
 # Aryan_OneFinnet_Assignment  
 
 ## Technologies Used  
@@ -43,4 +42,3 @@ project/
 ├── tailwind.config.js    
 └── README.md  
 ```     
----
